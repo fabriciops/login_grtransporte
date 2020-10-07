@@ -5,4 +5,4 @@ Você pode vê esse projeto no link abaixo:
 
 https://fabriciops.github.io/login_grtransporte/
 
-Para vê como ficou no Mobile basta utilizar as ferramentas do Google Chrome Develop.
+Para vê como ficou no Mobile basta utilizar as ferramentas do Google Chrome Developer.
